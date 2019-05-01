@@ -635,6 +635,12 @@
 			"revisionTime": "2019-02-27T21:05:49Z"
 		},
 		{
+			"checksumSHA1": "NvkV52M5EFd0kT4U+9A2Eu/kKr8=",
+			"path": "github.com/hashicorp/golang-lru/simplelru",
+			"revision": "7087cb70de9f7a8bc0a10c375cb0d2280a8edf9c",
+			"revisionTime": "2019-02-27T22:24:58Z"
+		},
+		{
 			"checksumSHA1": "HtpYAWHvd9mq+mHkpo7z8PGzMik=",
 			"path": "github.com/hashicorp/hcl",
 			"revision": "23c074d0eceb2b8a5bfdbb271ab780cde70f05a8",
