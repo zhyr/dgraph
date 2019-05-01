@@ -1197,6 +1197,12 @@
 			"revisionTime": "2019-04-02T21:32:28Z"
 		},
 		{
+			"checksumSHA1": "knF2NGI4m3IQSTWMDkd5HDwFXVY=",
+			"path": "google.golang.org/genproto/googleapis/rpc/status",
+			"revision": "f467c93bbac2133ff463e1f93d18d8f9f3f04451",
+			"revisionTime": "2019-04-01T18:17:12Z"
+		},
+		{
 			"checksumSHA1": "12GqsW8PiRPnezDDy0v4brZrndM=",
 			"path": "gopkg.in/yaml.v2",
 			"revision": "a5b47d31c556af34a302ce5d659e6fea44d90de0",
