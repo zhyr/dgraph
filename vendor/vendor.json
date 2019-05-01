@@ -827,10 +827,10 @@
 			"revisionTime": "2019-04-02T21:38:57Z"
 		},
 		{
-			"checksumSHA1": "mO7daOW8Q6FRhOg8kXd16HKb1fI=",
+			"checksumSHA1": "8DpVH3R8LdPN6LFwPemAjAt8TXE=",
 			"path": "github.com/prometheus/procfs",
-			"revision": "488faf799f863e27e50c516468f76ae8f1da20a5",
-			"revisionTime": "2019-02-03T18:33:50Z"
+			"revision": "ea9eea63887261e4d8ed8315f4078e88d540c725",
+			"revisionTime": "2019-04-03T10:40:16Z"
 		},
 		{
 			"checksumSHA1": "IpZbdbyZ+92XBC5PmgeGdElUdZ8=",
