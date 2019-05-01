@@ -811,20 +811,20 @@
 		{
 			"checksumSHA1": "ljxJzXiQ7dNsmuRIUhqqP+qjRWc=",
 			"path": "github.com/prometheus/common/expfmt",
-			"revision": "cfeb6f9992ffa54aaa4f2170ade4067ee478b250",
-			"revisionTime": "2019-01-24T16:30:07Z"
+			"revision": "5df5c82edb7502fd6cbe093223a19b6e1231494f",
+			"revisionTime": "2019-04-02T21:38:57Z"
 		},
 		{
 			"checksumSHA1": "1Mhfofk+wGZ94M0+Bd98K8imPD4=",
 			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
-			"revision": "cfeb6f9992ffa54aaa4f2170ade4067ee478b250",
-			"revisionTime": "2019-01-24T16:30:07Z"
+			"revision": "5df5c82edb7502fd6cbe093223a19b6e1231494f",
+			"revisionTime": "2019-04-02T21:38:57Z"
 		},
 		{
 			"checksumSHA1": "oKlDMiV9MHiguN2YtUnZP9s+2aw=",
 			"path": "github.com/prometheus/common/model",
-			"revision": "cfeb6f9992ffa54aaa4f2170ade4067ee478b250",
-			"revisionTime": "2019-01-24T16:30:07Z"
+			"revision": "5df5c82edb7502fd6cbe093223a19b6e1231494f",
+			"revisionTime": "2019-04-02T21:38:57Z"
 		},
 		{
 			"checksumSHA1": "mO7daOW8Q6FRhOg8kXd16HKb1fI=",
