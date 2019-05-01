@@ -33,6 +33,12 @@
 			"revisionTime": "2014-07-04T15:26:43Z"
 		},
 		{
+			"checksumSHA1": "cb0Y4WcQ257Ca8TWrgcuFebCMfs=",
+			"path": "github.com/apache/thrift/lib/go/thrift",
+			"revision": "0bc4712929b42d22424c31b11406d7afef950661",
+			"revisionTime": "2019-03-27T15:41:34Z"
+		},
+		{
 			"checksumSHA1": "spyv5/YFBjYyZLZa1U2LBfDR8PM=",
 			"path": "github.com/beorn7/perks/quantile",
 			"revision": "4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9",
