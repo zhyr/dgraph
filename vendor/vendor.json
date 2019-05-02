@@ -1272,7 +1272,9 @@
 			"checksumSHA1": "OquaDhyo5l+iillTvFEWTEOEO8U=",
 			"path": "google.golang.org/grpc",
 			"revision": "25c4f928eaa6d96443009bd842389fb4fa48664e",
-			"revisionTime": "2019-04-18T21:20:59Z"
+			"revisionTime": "2019-04-18T21:20:59Z",
+			"version": "v1.20.1",
+			"versionExact": "v1.20.1"
 		},
 		{
 			"checksumSHA1": "e96V30YlF8nnJw+2c14d8kUUDaE=",
